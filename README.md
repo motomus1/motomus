@@ -1,5 +1,5 @@
 [Motomus](https://www.motomus.ro/)
-Motomus este un magazin online din România, specializat în comercializarea de echipamente și accesorii pentru motocicliști, precum și piese și consumabile pentru motociclete.
+este un magazin online din România, specializat în comercializarea de echipamente și accesorii pentru motocicliști, precum și piese și consumabile pentru motociclete.
 
 Motomus dispune și de trei showroom-uri la următoarele locații: Showroom Motomus Cluj-Napoca, Showroom Motomus Gherla, Showroom Motomus București.
 
